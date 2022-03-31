@@ -1,0 +1,74 @@
+
+.brand-image
+{
+    
+    width: 100%;
+}
+.navitem-mar
+{
+    font-size: 1.5rem;
+    margin-left: 15%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+}
+.text1
+{
+    margin: 0 3% 0 3%;
+}
+.title{
+    text-align: center;
+    font-size: 1rem;
+
+}
+.announcement
+{
+    color: white;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
+}
+.title-link{
+    text-decoration: none;
+    color: black;
+}
+.title-link:hover
+{
+    color: green;
+}
+.title2
+{
+    text-align: center;
+    margin-bottom: 6%;
+}
+.gdsc-tkrcet-image
+
+{
+    padding-top: 4%;
+    padding-bottom: 2.2%;
+    width: 30%;
+}
+.title-h3
+{
+    padding-bottom:0%;
+}
+.title-para
+{
+    font-size:1.1rem;
+    padding-top: 1.2%;
+    padding-bottom: 1.8%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+hr
+{
+    margin-left: 25%;
+    margin-right: 23%;
+    width:45%;
+}
+.button
+{
+    margin:0% 2% 0% 2% ;
+}
+.cardcontainer
+{
+    background-color: #4384f4;
+}
