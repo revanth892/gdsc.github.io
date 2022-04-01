@@ -1,3 +1,8 @@
+#pricing
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
 
 .brand-image
 {
@@ -70,9 +75,7 @@ hr
 }
 .cardcontainer
 {
-    text-align: center;
-    background-color: #4384f4;
-    padding-bottom: 5%;
+    margin: 0% 7.7% 0% 7.7%;
 }
 .carditems
 {
@@ -80,12 +83,20 @@ hr
     margin-left:10%;
     margin-right:10%;
 }
-.cardloc
-{
-    text-align: center;
-    margin: 5% 5% 5% 6%;
-}
 .card
+{ 
+    text-align: center;
+    padding-bottom: 6%;
+    margin: 5% 8% 5% 8%;
+}
+i{
+    margin: 3% 0% 5% 0%;
+}
+
+.cardpara
 {
-    margin: 5% 5% 5% 6%;
+    margin-top: 5%;
+    margin-bottom: 7%;
+    margin-left: 7%;
+    margin-right: 7%;
 }
