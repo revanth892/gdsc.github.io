@@ -100,3 +100,15 @@ i{
     margin-left: 7%;
     margin-right: 7%;
 }
+.cardimage
+{
+    color: #4384f4;
+}
+.card-title
+{
+    font-size: 1.4rem;
+}
+.card:hover
+{
+    zoom: 105%;
+}
