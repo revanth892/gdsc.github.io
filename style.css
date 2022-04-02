@@ -4,6 +4,12 @@
     padding-bottom: 5%;
 }
 
+#intro
+{
+    padding-top:4%;
+    padding-bottom: 4%;
+}
+
 .brand-image
 {
     
@@ -66,8 +72,8 @@
 hr
 {
     margin-left: 25%;
-    margin-right: 23%;
-    width:45%;
+    margin-right: 25%;
+    width:50%;
 }
 .button
 {
@@ -75,7 +81,7 @@ hr
 }
 .cardcontainer
 {
-    margin: 0% 7.7% 0% 7.7%;
+    margin: 4% 7.7% 4% 7.7%;
 }
 .carditems
 {
@@ -95,8 +101,8 @@ i{
 
 .cardpara
 {
-    margin-top: 5%;
-    margin-bottom: 7%;
+    margin-top: 4%;
+    margin-bottom: 3%;
     margin-left: 7%;
     margin-right: 7%;
 }
@@ -115,4 +121,31 @@ i{
 {
     text-align: center;
     padding:5% 0% 5% 0%;
+}
+.profile-image
+{
+    border-radius: 50%;
+    width: 50%;
+    margin-bottom: 4.5%;
+}
+.icon{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+a
+{
+    text-decoration: unset;
+    color: unset;
+}
+.profile
+{
+    text-align: center;
+    margin-bottom: 8%;
+    padding-bottom: 10%;
+}
+h4
+{
+    text-align: center;
+    font-size: 2.2rem;
+    margin: 3% 0 1% 0;
 }
