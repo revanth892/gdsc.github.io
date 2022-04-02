@@ -149,3 +149,23 @@ h4
     font-size: 2.2rem;
     margin: 3% 0 1% 0;
 }
+.red:hover
+{
+    color: #DB4437;
+}
+.yellow:hover
+{
+    color: #F4B400;
+}
+.blue:hover
+{
+    color: #4384f4;
+}
+.green:hover
+{
+    color: #0F9D58;
+}
+.border
+{
+    border-radius: 5%;
+}
