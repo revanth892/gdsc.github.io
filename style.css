@@ -169,3 +169,29 @@ h4
 {
     border-radius: 5%;
 }
+.coloricon1
+{
+    color: white;
+}
+.coloricon1:hover
+{
+    color: #4384f4;
+}
+.items
+{
+    padding: 3% 5% 1% 5%;
+}
+h5
+{
+    font-size: 1.6rem;
+}
+
+.icon1
+{
+    margin: 0% 2% 0% 0%;
+}
+
+.bottomitem
+{
+    margin-top: 5%;
+}
